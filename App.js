@@ -11,7 +11,7 @@ import {
   SafeAreaView,
   StatusBar,
 } from 'react-native';
-import Liner from './components/liner';
+import Liner from './components/Liner';
 
 
 const App: () => React$Node = () => {
